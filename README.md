@@ -201,3 +201,17 @@
     />
   </picture>
 </p>
+
+<p align="center">
+    <picture>
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://tryhackme-badges.s3.amazonaws.com/cybflawless.png"
+            style="border:none;"
+        />
+        <img
+            src="https://tryhackme-badges.s3.amazonaws.com/cybflawless.png"
+            alt=""
+            />
+    </picture>
+</p>
