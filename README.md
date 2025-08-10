@@ -220,3 +220,14 @@
     />
   </picture>
 </p>
+
+<!--- <div align="center">
+  <h3>Familiar Blockchains</h3>
+  <p>
+    <a href="https://algorand.co" target="_blank" rel="noreferrer"><img src="./assets/algorand.png" width="36" height="36" alt="Algorand"></a>
+    &nbsp;
+    <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="./assets/solana.svg" width="36" height="36" alt="Solana"></a>
+    &nbsp;
+    <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
+  </p>
+</div> --->
