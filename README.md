@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm FLOURISH</h1>
 
-<h3 align="center">Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, Pen tester, 🐞 bounter | Kali, Python, Ai, | Web3</h3>
+<h3 align="center">Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, Pen tester, 🐞 bounter | Vibe Coder | Kali, Python, AI, | Web3</h3>
 
 <p align="center">
     <img
@@ -57,8 +57,8 @@
 
 <p align="center"> About 🔭 Me </p>
 
-<p align="center">🌱 I’m currently learning ` Rust 🦀 and Anchor ⚓</p> 
-
+<p align="center">🌱 I’m currently learning `Sui 💧 and the Move 📦 language</p> 
+<!--- !` Rust 🦀 and Anchor ⚓ --->
  <!--- **project.samclak@gmail.com** --->
  
 <p align="center">Projects</p>
@@ -94,7 +94,26 @@
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=IP-Sweeper-Script&show_owner=false&theme=light"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=FileOrganizer&show_owner=false&theme=light"
+      alt=""
+    />
+  </picture>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/CYBWithFlourish/VSCode-Ext-Manager" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=light"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=VSCode-Ext-Manager&show_owner=false&theme=light"
       alt=""
     />
   </picture>
@@ -200,18 +219,4 @@
       alt="CYBWithFlourish's Github Streak"
     />
   </picture>
-</p>
-
-<p align="center">
-    <picture>
-        <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://tryhackme-badges.s3.amazonaws.com/cybflawless.png"
-            style="border:none;"
-        />
-        <img
-            src="https://tryhackme-badges.s3.amazonaws.com/cybflawless.png"
-            alt=""
-            />
-    </picture>
 </p>
