@@ -128,157 +128,6 @@
 </p>
 <br/>
 
-<h3 align="center">Languages</h3>
-
-<p align="center">
-    <a href="https://www.python.org" target="_blank"
-><img
-     align="center"
-     src="/images/python.svg"
-     alt="Python"
-     height="30"
-     width="40"
-/></a>
-<a href="https://dart.dev" target="_blank"
-><img
-     align="center"
-     src="/images/dart.svg"
-     alt="Dart"
-     height="30"
-     width="40"
-/></a>
-<a href="https://www.r-project.org" target="_blank"
-><img
-     align="center"
-     src="/images/rlang.svg"
-     alt="R Language"
-     height="30"
-     width="40"
-/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"
-><img
-     align="center"
-     src="/images/bash.svg"
-     alt="Bash"
-     height="30"
-     width="40"
-/></a>
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"
-><img
-     align="center"
-     src="/images/powershell.svg"
-     alt="PowerShell"
-     height="30"
-     width="40"
-/></a>
-</p>
-
-<h3 align="center">Platforms &amp; Frameworks</h3>
-
-<p align="center">
-    <a href="https://flutter.dev" target="_blank"
-><img
-     align="center"
-     src="/images/flutter.svg"
-     alt="Flutter"
-     height="30"
-     width="40"
-/></a>
-<a href="https://firebase.google.com" target="_blank"
-><img
-     align="center"
-     src="/images/firebase.svg"
-     alt="Firebase"
-     height="30"
-     width="40"
-/></a>
-<a href="https://www.docker.com" target="_blank"
-><img
-     align="center"
-     src="/images/docker.svg"
-     alt="Docker"
-     height="30"
-     width="40"
-/></a>
-<a href="https://solana.com" target="_blank"
-><img
-     align="center"
-     src="/images/solana.svg"
-     alt="Solana"
-     height="30"
-     width="40"
-/></a>
-<a href="https://www.algorand.com" target="_blank"
-><img
-     align="center"
-     src="/images/algorand.svg"
-     alt="Algorand"
-     height="30"
-     width="40"
-/></a>
-</p>
-
-<h3 align="center">Development Tools</h3>
-
-<p align="center">
-    <a href="https://git-scm.com/" target="_blank"
-><img
-     align="center"
-     src="/images/git.svg"
-     alt="Git"
-     height="30"
-     width="40"
-/></a>
-<!--- <a href="https://github.com" target="_blank"
-><img
-     align="center"
-     src="/images/github.svg"
-     alt="GitHub"
-     height="30"
-     width="40"
-/></a> --->
-<a href="https://code.visualstudio.com" target="_blank"
-><img
-     align="center"
-     src="/images/vscode.svg"
-     alt="Visual Studio Code"
-     height="30"
-     width="40"
-/></a>
-<a href="https://github.com/features/copilot" target="_blank"
-><img
-     align="center"
-     src="/images/githubcopilot.svg"
-     alt="GitHub Copilot"
-     height="30"
-     width="40"
-/></a>
-<a href="https://copilot.microsoft.com/" target="_blank"
-><img
-     align="center"
-     src="/images/microsoftcopilot.svg"
-     alt="Microsoft Copilot"
-     height="30"
-     width="40"
-/></a>
-<a href="https://posit.co/products/open-source/rstudio/" target="_blank"
-><img
-     align="center"
-     src="/images/rstudio.svg"
-     alt="RStudio"
-     height="30"
-     width="40"
-/></a>
-<a href="https://aistudio.google.com/" target="_blank"
-><img
-     align="center"
-     src="/images/aistudio.svg"
-     alt="AI Studio"
-     height="30"
-     width="40"
-/></a>
-</p>
-
 <h3 align="center">Security &amp; Pentesting</h3>
 
 <p align="center">
@@ -298,7 +147,7 @@
      height="30"
      width="40"
 /></a>
-    <a href="https://www.hackthebox.com/cybflawless" target="_blank"
+    <a href="https://https://app.hackthebox.com/users/1567619" target="_blank"
 ><img
      align="center"
      src="/images/hackthebox.svg"
@@ -335,6 +184,165 @@
      align="center"
      src="/images/wireshark.svg"
      alt="Wireshark"
+     height="30"
+     width="40"
+/></a>
+</p>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+    <a href="https://www.python.org" target="_blank"
+><img
+     align="center"
+     src="/images/python.svg"
+     alt="Python"
+     height="30"
+     width="40"
+/></a>
+<a href="https://www.r-project.org" target="_blank"
+><img
+     align="center"
+     src="/images/rlang.svg"
+     alt="R Language"
+     height="30"
+     width="40"
+/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"
+><img
+     align="center"
+     src="/images/bash.svg"
+     alt="Bash"
+     height="30"
+     width="40"
+/></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"
+><img
+     align="center"
+     src="/images/powershell.svg"
+     alt="PowerShell"
+     height="30"
+     width="40"
+/></a>
+<a href="https://dart.dev" target="_blank"
+><img
+     align="center"
+     src="/images/dart.svg"
+     alt="Dart"
+     height="30"
+     width="40"
+/></a>
+</p>
+
+<h3 align="center">Platforms &amp; Frameworks</h3>
+
+<p align="center">
+    <a href="https://www.docker.com" target="_blank"
+><img
+     align="center"
+     src="/images/docker.svg"
+     alt="Docker"
+     height="30"
+     width="40"
+/></a>
+<a href="https://studio.firebase.google.com" target="_blank"
+><img
+     align="center"
+     src="/images/firebasestudio.svg"
+     alt="Firebase Studio"
+     height="30"
+     width="40"
+/></a>
+<a href="https://firebase.google.com" target="_blank"
+><img
+     align="center"
+     src="/images/firebase.svg"
+     alt="Firebase"
+     height="30"
+     width="40"
+/></a>
+<a href="https://flutter.dev" target="_blank"
+><img
+     align="center"
+     src="/images/flutter.svg"
+     alt="Flutter"
+     height="30"
+     width="40"
+/></a>
+<a href="https://solana.com" target="_blank"
+><img
+     align="center"
+     src="/images/solana.svg"
+     alt="Solana"
+     height="30"
+     width="40"
+/></a>
+<a href="https://www.algorand.com" target="_blank"
+><img
+     align="center"
+     src="/images/algorand.svg"
+     alt="Algorand"
+     height="30"
+     width="40"
+/></a>
+</p>
+
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+    <a href="https://code.visualstudio.com" target="_blank"
+><img
+     align="center"
+     src="/images/vscode.svg"
+     alt="Visual Studio Code"
+     height="30"
+     width="40"
+/></a>
+<a href="https://posit.co/products/open-source/rstudio/" target="_blank"
+><img
+     align="center"
+     src="/images/rstudio.svg"
+     alt="RStudio"
+     height="30"
+     width="40"
+/></a>
+<a href="https://git-scm.com/" target="_blank"
+><img
+     align="center"
+     src="/images/git.svg"
+     alt="Git"
+     height="30"
+     width="40"
+/></a>
+<!--- <a href="https://github.com" target="_blank"
+><img
+     align="center"
+     src="/images/github.svg"
+     alt="GitHub"
+     height="30"
+     width="40"
+/></a> --->
+<a href="https://github.com/features/copilot" target="_blank"
+><img
+     align="center"
+     src="/images/githubcopilot.svg"
+     alt="GitHub Copilot"
+     height="30"
+     width="40"
+/></a>
+<a href="https://copilot.microsoft.com/" target="_blank"
+><img
+     align="center"
+     src="/images/microsoftcopilot.svg"
+     alt="Microsoft Copilot"
+     height="30"
+     width="40"
+/></a>
+<a href="https://aistudio.google.com/" target="_blank"
+><img
+     align="center"
+     src="/images/aistudio.svg"
+     alt="AI Studio"
      height="30"
      width="40"
 /></a>
@@ -429,5 +437,6 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
 
 
