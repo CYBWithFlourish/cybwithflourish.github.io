@@ -16,7 +16,7 @@ body {
 img[src^="https://github.com/CYBWithFlourish.png"] {
   width: 120px !important;
   height: 120px !important;
-  border-radius: 50% !important; /* Make it a perfect circle */
+  border-radius: 50% !important;
 }
 
 section {
