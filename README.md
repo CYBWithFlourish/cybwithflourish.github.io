@@ -304,7 +304,7 @@
      src="/images/chrome.svg"
      alt="Google Chrome"
      height="30"
-     weight="40"
+     width="40"
 /></a>
 <a href="https://code.visualstudio.com" target="_blank"
 ><img
@@ -469,6 +469,7 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
 
 
 
