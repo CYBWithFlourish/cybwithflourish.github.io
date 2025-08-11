@@ -1,13 +1,24 @@
 title: CYBWithFlourish's Portfolio
 description: >-
-  Cyber Security enthusiast, Pen tester, and Vibe Coder. Welcome to my portfolio of projects and updates.
+   Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, 
+  Pen tester, 🐞 bounter | Vibe Coder | Kali, Python, AI, | Web3
+  
 author:
   name: CYBWithFlourish
+  github_username: CYBWithFlourish
   email: nill
-social_links:
-  linkedin: @cybflourish
-  github: @CYBWithFlourish
-  instagram: @cybwithflourish
-  dev: @cybwithfourish
+  
+social:
+  links:
+    - https://linkedin.com/in/cybflourish/
+    - https://github.com/CYBWithFlourish
+    - https://instagram.com/cybwithflourish/
+    - https://medium.com/@cybwithflourish/
+    - https://dev.to/cybwithflourish/
 
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+
