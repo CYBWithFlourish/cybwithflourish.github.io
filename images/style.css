@@ -1,18 +1,66 @@
-/* General Body and Layout Styles with CSS Variables */
+/*
+ * =================================================================================
+ * Light & Dark Theme Support using a Class Toggle (.dark-mode)
+ * =================================================================================
+ */
+
 :root {
-  --background-color: #ffffff;
-  --text-color: #24292f;
-  --link-color: #0969da;
-  --hr-color: #d0d7de;
-  --dark-mode-image-display: none;
-  --light-mode-image-filter: invert(0);
+  /* Default Light Theme Variables */
+  --color-canvas-default: #ffffff;
+  --color-fg-default: #24292f;
+  --color-accent-fg: #0969da;
+  --color-border-default: #d0d7de;
+  --color-button-bg: #f6f8fa;
+  --color-button-border: rgba(27, 31, 36, 0.15);
 }
+
+/* Dark Theme applied when body has the .dark-mode class */
+body.dark-mode {
+  --color-canvas-default: #0d1117;
+  --color-fg-default: #c9d1d9;
+  --color-accent-fg: #58a6ff;
+  --color-border-default: #21262d;
+  --color-button-bg: #21262d;
+  --color-button-border: rgba(201, 209, 217, 0.2);
+}
+
+/*
+ * =================================================================================
+ * Floating Theme Switcher Button
+ * =================================================================================
+ */
+
+.theme-switcher {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  z-index: 1000;
+  padding: 8px 12px;
+  background-color: var(--color-canvas-default);
+  color: var(--color-fg-default);
+  border: 1px solid var(--color-border-default);
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.theme-switcher:hover {
+  background-color: var(--color-button-bg);
+  border-color: var(--color-button-border);
+}
+
+/*
+ * =================================================================================
+ * General Body and Layout Styles (Unchanged)
+ * =================================================================================
+ */
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
   line-height: 1.5;
-  background-color: var(--background-color);
-  color: var(--text-color);
+  background-color: var(--color-canvas-default);
+  color: var(--color-fg-default);
 }
 
 .wrapper {
@@ -21,24 +69,16 @@ body {
   padding: 2rem;
 }
 
-/* Custom style for the profile image */
-img[src^="https://github.com/CYBWithFlourish.png"] {
-  width: 120px !important;
-  height: 120px !important;
-  border-radius: 50% !important;
-}
-
-section {
+section, h1, h2, h3 {
   text-align: center;
 }
 
 h1, h2, h3 {
-  text-align: center;
   font-weight: 600;
 }
 
 a {
-  color: var(--link-color);
+  color: var(--color-accent-fg);
   text-decoration: none;
 }
 
@@ -46,35 +86,21 @@ a:hover {
   text-decoration: underline;
 }
 
+hr {
+  height: .25em;
+  padding: 0;
+  margin: 24px 0;
+  background-color: var(--color-border-default);
+  border: 0;
+}
+
 img {
   max-width: 100%;
   height: auto;
 }
 
-hr {
-  height: .25em;
-  padding: 0;
-  margin: 24px 0;
-  background-color: var(--hr-color);
-  border: 0;
-}
-
-/* Dark Mode Styles */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-color: #000000;
-    --text-color: #c9d1d9;
-    --link-color: #58a6ff;
-    --hr-color: #101414;
-    --dark-mode-image-display: initial;
-  }
-
-  img[src$="#gh-dark-mode-only"],
-  picture > source[media="(prefers-color-scheme: dark)"] {
-    display: var(--dark-mode-image-display);
-  }
-
-  img:not([src$="#gh-dark-mode-only"]) {
-    filter: var(--light-mode-image-filter);
-  }
+img[src^="https://github.com/CYBWithFlourish.png"] {
+  width: 120px !important;
+  height: 120px !important;
+  border-radius: 50% !important;
 }
