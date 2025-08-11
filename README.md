@@ -383,7 +383,7 @@
      height="30"
      width="40"
 /></a>
-<a href="https://linux.org" target="_blank"
+<a href="https://kernel.org" target="_blank"
 ><img
      align="center"
      src="/images/linux.svg"
@@ -488,6 +488,7 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
 
 
 
