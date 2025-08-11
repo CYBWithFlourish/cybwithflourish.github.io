@@ -163,7 +163,7 @@
      height="30"
      width="40"
 /></a>
-<a href="https://www.bugcrowd.com" target="_blank"
+<a href="https://bugcrowd.com/" target="_blank"
 ><img
      align="center"
      src="/images/bugcrowd.svg"
@@ -314,6 +314,14 @@
      height="30"
      width="40"
 /></a>
+    <a href="https://aistudio.google.com/" target="_blank"
+><img
+     align="center"
+     src="/images/aistudio.svg"
+     alt="AI Studio"
+     height="30"
+     width="40"
+/></a>
 <!--- <a href="https://github.com" target="_blank"
 ><img
      align="center"
@@ -338,24 +346,32 @@
      height="30"
      width="40"
 /></a>
-<a href="https://aistudio.google.com/" target="_blank"
-><img
-     align="center"
-     src="/images/aistudio.svg"
-     alt="AI Studio"
-     height="30"
-     width="40"
-/></a>
 </p>
 
 <h3 align="center">Operating Systems</h3>
 
 <p align="center">
-    <a href="https://ubuntu.com" target="_blank"
+    <a href="https://windows.com" target="_blank"
+><img
+     align="center"
+     src="/images/windows.svg"
+     alt="Windows"
+     height="30"
+     width="40"
+/></a>
+<a href="https://ubuntu.com" target="_blank"
 ><img
      align="center"
      src="/images/ubuntu.svg"
      alt="Ubuntu"
+     height="30"
+     width="40"
+/></a>
+<a href="https://android.com" target="_blank"
+><img
+     align="center"
+     src="/images/android.svg"
+     alt="Android"
      height="30"
      width="40"
 /></a>
@@ -437,6 +453,7 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
 
 
 
