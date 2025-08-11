@@ -285,12 +285,28 @@
      height="30"
      width="40"
 /></a>
+<a href="https://sui.io" target="_blank"
+><img
+     align="center"
+     src="/images/sui.svg"
+     alt="SUI"
+     height="30"
+     width="40"
+/></a>
 </p>
 
 <h3 align="center">Development Tools</h3>
 
 <p align="center">
-    <a href="https://code.visualstudio.com" target="_blank"
+    <a href="https://www.google.com/chrome/" target="_blank"
+><img
+     align="center"
+     src="/images/chrome.svg"
+     alt="Google Chrome"
+     height="30"
+     weight="40"
+/></a>
+<a href="https://code.visualstudio.com" target="_blank"
 ><img
      align="center"
      src="/images/vscode.svg"
@@ -453,6 +469,7 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
 
 
 
