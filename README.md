@@ -383,7 +383,7 @@
      height="30"
      width="40"
 /></a>
-<a href="https://android.com" target="_blank"
+<a href="https://developer.android.com" target="_blank"
 ><img
      align="center"
      src="/images/android.svg"
@@ -396,7 +396,7 @@
 <h3 align="center">Content &amp; Collaboration</h3>
 
 <p align="center">
-    <a href="https://www.notion.so" target="_blank"
+    <a href="https://decisive-risk-3ad.notion.site/CyBWithFlourish-The-Evolution-of-Cybersecurity-21d4a0447eea80318727ed24da7c6e46?pvs=74" target="_blank"
 ><img
      align="center"
      src="/images/notion.svg"
@@ -469,6 +469,7 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
 
 
 
