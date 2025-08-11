@@ -9,11 +9,59 @@
     
   </head>
   <body>
+
+    <!-- 1. Floating Theme Switcher Button Added Here -->
+    <button id="theme-switcher" class="theme-switcher">Toggle Theme</button>
+
     <div class="wrapper">
       <section>
- 
         {{ content }}
       </section>
     </div>
+
+    <!-- 2. JavaScript for Theme Toggling Added Here -->
+    <script>
+      // Self-invoking function to avoid polluting the global namespace
+      (function() {
+        const themeSwitcher = document.getElementById('theme-switcher');
+        const body = document.body;
+
+        // This function applies the theme by adding/removing the .dark-mode class
+        const applyTheme = (theme) => {
+          if (theme === 'dark') {
+            body.classList.add('dark-mode');
+            themeSwitcher.textContent = 'Light Mode'; // Update button text
+          } else {
+            body.classList.remove('dark-mode');
+            themeSwitcher.textContent = 'Dark Mode'; // Update button text
+          }
+        };
+
+        // This function toggles the theme and saves the choice to localStorage
+        const toggleTheme = () => {
+          const isDarkMode = body.classList.contains('dark-mode');
+          const newTheme = isDarkMode ? 'light' : 'dark';
+          localStorage.setItem('theme', newTheme); // Save the user's choice
+          applyTheme(newTheme);
+        };
+
+        // Add the click event listener to the button
+        themeSwitcher.addEventListener('click', toggleTheme);
+
+        // On page load, apply the correct theme
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme) {
+          // If a theme is saved in localStorage, use it
+          applyTheme(savedTheme);
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          // Otherwise, check for the system's default preference
+          applyTheme('dark');
+        } else {
+          // Default to light theme if no preference is found
+          applyTheme('light');
+        }
+      })();
+    </script>
+
   </body>
 </html>
