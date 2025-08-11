@@ -1,13 +1,12 @@
-title: CYBWithFlourish's Portfolio
+title: CWBWithFlourish's Portfolio
 description: >-
-   Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, 
+  Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, 
   Pen tester, 🐞 bounter | Vibe Coder | Kali, Python, AI, | Web3
-  
+
 author:
   name: CYBWithFlourish
   github_username: CYBWithFlourish
-  email: nill
-  
+
 social:
   links:
     - https://linkedin.com/in/cybflourish/
@@ -20,5 +19,3 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-
-
