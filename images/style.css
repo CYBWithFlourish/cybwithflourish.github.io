@@ -62,7 +62,7 @@ hr {
     color: #58a6ff;
   }
   hr {
-    background-color: #21262d;
+    background-color: #101414;
   }
   img[src$="#gh-dark-mode-only"],
   picture > source[media="(prefers-color-scheme: dark)"] {
