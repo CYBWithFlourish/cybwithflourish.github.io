@@ -126,6 +126,25 @@
   </picture>
     </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/CYBWithFlourish/GraphqlNomad" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=light"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CYBWithFlourish&repo=GraphqlNomad&show_owner=false&theme=light"
+      alt=""
+    />
+  </picture>
+    </a>
+</p>
 <br/>
 
 <h3 align="center">Security &amp; Pentesting</h3>
@@ -488,6 +507,7 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
 
 
 
