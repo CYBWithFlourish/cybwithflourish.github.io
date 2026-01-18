@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm FLOURISH</h1>
 
-<h3 align="center">Cyber Security | Purple 🟣 teaming | Aspiring Ethical Hacker, Pen tester, 🐞 bounter | Vibe Coder | Kali, Python, AI, | Web3</h3>
+<h3 align="center">STATS STUDENT​ \ CYBER SECURITY | ASPIRING ETHICAL HACKER, PEN TESTER, 🪲 BOUNTER | LINUX(KALI), AI | WEB3 ​\ VIBE CODER</h3>
 
 <p align="center">
     <img
@@ -507,3 +507,4 @@
     <a href="https://sui.io/" target="_blank" rel="noreferrer"><img src="./assets/sui.png" width="36" height="36" alt="Sui"></a>
   </p>
 </div> --->
+
